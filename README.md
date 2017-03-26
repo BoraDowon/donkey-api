@@ -1,2 +1,2 @@
 # donkey-api
-API server
+API server for Donkey
